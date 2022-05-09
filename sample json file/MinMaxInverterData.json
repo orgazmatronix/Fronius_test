@@ -5,40 +5,31 @@
        "Data" : {
           "DAY_PMAX" : {
              "Unit" : "W",
-             "Value" : 2343
-          },
+             "Value" : 2343},
           "DAY_UACMAX" : {
              "Unit" : "V",
-             "Value" : 232.30000000000001
-          },
+             "Value" : 232.30000000000001},
           "DAY_UDCMAX" : {
              "Unit" : "V",
-             "Value" : 499.30000000000001
-          },
+             "Value" : 499.30000000000001},
           "TOTAL_PMAX" : {
              "Unit" : "W",
-             "Value" : 10071
-          },
+             "Value" : 10071},
           "TOTAL_UACMAX" : {
              "Unit" : "V",
-             "Value" : 257.30000000000001
-          },
+             "Value" : 257.30000000000001},
           "TOTAL_UDCMAX" : {
              "Unit" : "V",
-             "Value" : 529.79999999999995
-          },
+             "Value" : 529.79999999999995},
           "YEAR_PMAX" : {
              "Unit" : "W",
-             "Value" : 10071
-          },
+             "Value" : 10071},
           "YEAR_UACMAX" : {
              "Unit" : "V",
-             "Value" : 257.30000000000001
-          },
+             "Value" : 257.30000000000001},
           "YEAR_UDCMAX" : {
              "Unit" : "V",
-             "Value" : 529.79999999999995
-          }
+             "Value" : 529.79999999999995}
        }
     },
     "Head" : {
@@ -46,13 +37,11 @@
           "DataCollection" : "MinMaxInverterData",
           "DeviceClass" : "Inverter",
           "DeviceId" : "1",
-          "Scope" : "Device"
-       },
+          "Scope" : "Device"},
        "Status" : {
           "Code" : 0,
           "Reason" : "",
-          "UserMessage" : ""
-       },
+          "UserMessage" : ""},
        "Timestamp" : "2022-05-09T07:30:21+02:00"
     }
  }

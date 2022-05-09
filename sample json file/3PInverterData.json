@@ -5,28 +5,22 @@
       "Data" : {
          "IAC_L1" : {
             "Unit" : "A",
-            "Value" : 3.25
-         },
+            "Value" : 3.25},
          "IAC_L2" : {
             "Unit" : "A",
-            "Value" : 3.2400000000000002
-         },
+            "Value" : 3.2400000000000002},
          "IAC_L3" : {
             "Unit" : "A",
-            "Value" : 3.0499999999999998
-         },
+            "Value" : 3.0499999999999998},
          "UAC_L1" : {
             "Unit" : "V",
-            "Value" : 229.80000000000001
-         },
+            "Value" : 229.80000000000001},
          "UAC_L2" : {
             "Unit" : "V",
-            "Value" : 227.19999999999999
-         },
+            "Value" : 227.19999999999999},
          "UAC_L3" : {
             "Unit" : "V",
-            "Value" : 227.09999999999999
-         }
+            "Value" : 227.09999999999999}
       }
    },
    "Head" : {
@@ -34,13 +28,10 @@
          "DataCollection" : "3PInverterData",
          "DeviceClass" : "Inverter",
          "DeviceId" : "1",
-         "Scope" : "Device"
-      },
+         "Scope" : "Device"},
       "Status" : {
          "Code" : 0,
          "Reason" : "",
-         "UserMessage" : ""
-      },
-      "Timestamp" : "2022-05-09T07:26:09+02:00"
-   }
+         "UserMessage" : ""},
+      "Timestamp" : "2022-05-09T07:26:09+02:00"}
 }
