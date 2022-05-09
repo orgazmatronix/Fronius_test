@@ -1,0 +1,66 @@
+"""http://:192.168.1.63/solar_api/v1/GetInverterRealtimeData.cgi?Scope=Device&DataCollection=CommonInverterData&DeviceId=1"""
+{
+    "Body" : {
+       "Data" : {
+          "DAY_ENERGY" : {
+             "Unit" : "Wh",
+             "Value" : 1633.5
+          },
+          "DeviceStatus" : {
+             "ErrorCode" : 0,
+             "LEDColor" : 2,
+             "LEDState" : 0,
+             "MgmtTimerRemainingTime" : -1,
+             "StateToReset" : false,
+             "StatusCode" : 7
+          },
+          "FAC" : {
+             "Unit" : "Hz",
+             "Value" : 50
+          },
+          "IAC" : {
+             "Unit" : "A",
+             "Value" : 9.9700000000000006
+          },
+          "IDC" : {
+             "Unit" : "A",
+             "Value" : 4.9299999999999997
+          },
+          "PAC" : {
+             "Unit" : "W",
+             "Value" : 2281
+          },
+          "TOTAL_ENERGY" : {
+             "Unit" : "Wh",
+             "Value" : 509480.03000000003
+          },
+          "UAC" : {
+             "Unit" : "V",
+             "Value" : 229.80000000000001
+          },
+          "UDC" : {
+             "Unit" : "V",
+             "Value" : 489
+          },
+          "YEAR_ENERGY" : {
+             "Unit" : "Wh",
+             "Value" : 509480.90999999997
+          }
+       }
+    },
+    "Head" : {
+       "RequestArguments" : {
+          "DataCollection" : "CommonInverterData",
+          "DeviceClass" : "Inverter",
+          "DeviceId" : "1",
+          "Scope" : "Device"
+       },
+       "Status" : {
+          "Code" : 0,
+          "Reason" : "",
+          "UserMessage" : ""
+       },
+       "Timestamp" : "2022-05-09T07:28:39+02:00"
+    }
+ }
+ 
